@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftConcurrenncyBootcampApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TaskBootcampHomeView()
         }
     }
 }
